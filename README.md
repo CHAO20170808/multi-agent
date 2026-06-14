@@ -1,0 +1,4 @@
+測試多個agent共同合作工作
+1.本地llm先行制定app軟體規格
+2.使用nvidia的免費模型進行撰寫app程式
+3.使用deepseek-v4-flash的模型進行自動化測試
